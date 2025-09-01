@@ -158,4 +158,88 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Quantidade Total de dados: 1401
 
+**Dashboard Análise de Dados de Logística**
+
+<img width="1276" height="711" alt="image" src="https://github.com/user-attachments/assets/13e59f77-e842-43ac-8717-cdfcb47bbb03" />
+
+Arquivo em excel que contém inicialmente as seguintes colunas:
+- ID_Pedido
+- ID_Vendedor
+- ID_Cliente
+- Equipe_Entrega
+- Cliente
+- Canal_Entrega
+- ID_Cidade
+- Data_Pedido
+- Data_Entrega_Prevista
+- Data_Entrega_Realizada
+- Status_Entrega
+
+Foram acrescentadas as Medidas:
+- Raiting
+- TotalEntregas
+- TotalEntregasPrazo
+
+- Quantidade Total de dados na Planilha: 53.771
+
+**Dashboard Análise de Dados Financeiros**
+
+<img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/db546071-9312-43ec-a91d-33834b31a915" />
+
+Arquivo em excel que contém inicialmente as seguintes colunas:
+- Tipo	
+- Componente	
+- 01/01/2019
+- 01/02/2019
+- 01/03/2019
+- 01/04/2019
+- 01/05/2019
+- 01/06/2019
+- 01/07/2019
+- 01/08/2019
+- 01/09/2019
+- 01/10/2019
+- 01/11/2019
+- 01/12/2019
+- 01/01/2020
+- 01/02/2020
+- 01/03/2020
+- 01/04/2020
+- 01/05/2020
+- 01/06/2020
+- 01/07/2020
+- 01/08/2020
+- 01/09/2020
+- 01/10/2020
+- 01/11/2020
+- 01/12/2020
+- 01/01/2022
+- 01/02/2022
+- 01/03/2022
+- 01/04/2022
+- 01/05/2022
+- 01/06/2022
+- 01/07/2022
+- 01/08/2022
+- 01/09/2022
+- 01/10/2022
+- 01/11/2022
+- 01/12/2022
+
+As colunas de datas foram transformadas em uma coluna só, contendo todas as datas.
+Foi criado uma coluna com a soma dos Valores.
+
+Colunas do Arquivo Final:
+- Tipo
+- Componente
+- Data
+- Valor
+
+Foram Criadas as Medidas:
+- Lucro
+- MargemLucro
+- Total Despesas
+- TotalReceitas
+
+Quantidade Total de dados na Planilha Final: 432
 
