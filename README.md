@@ -243,3 +243,42 @@ Foram Criadas as Medidas:
 
 Quantidade Total de dados na Planilha Final: 432
 
+**Dashboard Análise de Dados Contábeis**
+
+<img width="1326" height="728" alt="image" src="https://github.com/user-attachments/assets/2ba1500d-a331-4ff1-a7ee-fe2eff0bbb9d" />
+
+Planilha Plano de Contas:
+- ID_Conta
+- Tipo Relatório
+- Conta Nível 1
+- Conta Nível 2
+- Conta Nível 3
+- Conta Nível 4
+
+Planilha Dados Contabéis:
+- ID_Conta
+- Ano_2019
+- Ano_2020
+- Ano_2021
+- Ano_2022
+- Ano_2023
+
+Quantidade Total de dados: 27
+
+
+**Dashboard Aálise de Dados do Mercado de Ações**
+
+<img width="1332" height="727" alt="image" src="https://github.com/user-attachments/assets/bcb92b95-b3e8-4fc7-9410-d14bd57ca3b8" />
+
+Arquivo em excel que contém inicialmente as seguintes colunas:
+- Empresa
+- Data
+- Close
+- Volume
+- Open
+- High
+- Low
+
+Quantidade Total de dados: 1261
+
+
