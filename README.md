@@ -26,7 +26,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Quantidade de dados: 51291
 
-**Dashboard de Vendas, Custo, Margem de Lucro e KPI**
+<h2><b>Dashboard de Vendas, Custo, Margem de Lucro e KPI</b></h2>
 
 <img width="1283" height="718" alt="image" src="https://github.com/user-attachments/assets/ea7fab46-446e-4c06-bb10-1a04ef3f32e4" />
 
@@ -65,7 +65,7 @@ Arquivo Vendas:
 
 Quantidade Total de dados: 88.213
 
-**Dashboard Análise de Campanhas de Marketing**
+<h2><b>Dashboard Análise de Campanhas de Marketing</b></h2>
 
 <img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/60522ef6-426a-4319-8803-8dc464d23dbd" />
 <img width="1281" height="712" alt="image" src="https://github.com/user-attachments/assets/c84b9711-d399-4774-826c-acd2eecd1d86" />
@@ -103,7 +103,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Quantidade Total de dados: 2001
 
-**Dashboard Comercial - Performance de Vendas**
+<h2><b>Dashboard Comercial - Performance de Vendas</b></h2>
 
 <img width="1322" height="728" alt="image" src="https://github.com/user-attachments/assets/4dac27db-7fbe-4112-be4c-afbc08e66ee9" />
 <img width="1341" height="725" alt="image" src="https://github.com/user-attachments/assets/e99cb981-8955-4f03-9352-7844b5a1b489" />
@@ -129,7 +129,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Quantidade Total de dados: 458
 
-**Dashboard Aálise de Dados RH**
+<h2><b>Dashboard Aálise de Dados RH</b></h2>
 
 <img width="1281" height="710" alt="image" src="https://github.com/user-attachments/assets/32588d36-fd64-46e8-80b1-dbbc52484924" />
 
@@ -158,7 +158,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Quantidade Total de dados: 1401
 
-**Dashboard Análise de Dados de Logística**
+<h2><b>Dashboard Análise de Dados de Logística</b></h2>
 
 <img width="1276" height="711" alt="image" src="https://github.com/user-attachments/assets/13e59f77-e842-43ac-8717-cdfcb47bbb03" />
 
@@ -182,7 +182,7 @@ Foram acrescentadas as Medidas:
 
 - Quantidade Total de dados na Planilha: 53.771
 
-**Dashboard Análise de Dados Financeiros**
+<h2><b>Dashboard Análise de Dados Financeiros</b></h2>
 
 <img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/db546071-9312-43ec-a91d-33834b31a915" />
 
@@ -243,7 +243,7 @@ Foram Criadas as Medidas:
 
 Quantidade Total de dados na Planilha Final: 432
 
-**Dashboard Análise de Dados Contábeis**
+<h2><b>Dashboard Análise de Dados Contábeis</b></h2>
 
 <img width="1326" height="728" alt="image" src="https://github.com/user-attachments/assets/2ba1500d-a331-4ff1-a7ee-fe2eff0bbb9d" />
 
@@ -266,7 +266,7 @@ Planilha Dados Contabéis:
 Quantidade Total de dados: 27
 
 
-**Dashboard Aálise de Dados do Mercado de Ações**
+<h2><b>Dashboard Aálise de Dados do Mercado de Ações</b></h2>
 
 <img width="1332" height="727" alt="image" src="https://github.com/user-attachments/assets/bcb92b95-b3e8-4fc7-9410-d14bd57ca3b8" />
 
