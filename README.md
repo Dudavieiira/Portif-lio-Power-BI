@@ -1,7 +1,7 @@
-# Portif-lio-Power-BI 📊
+# Portifólio-Power-BI 📊
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-Dashboard Analítico de Vendas Globais
+**Dashboard Analítico de Vendas Globais**
 
 <img width="1304" height="727" alt="image" src="https://github.com/user-attachments/assets/26fc60c7-d9ba-43c0-92b5-d4e553744bc7" />
 
@@ -26,7 +26,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 Quantidade de dados: 51291
 
-Dashboard de Vendas, Custo, Margem de Lucro e KPI
+**Dashboard de Vendas, Custo, Margem de Lucro e KPI**
 
 <img width="1283" height="718" alt="image" src="https://github.com/user-attachments/assets/ea7fab46-446e-4c06-bb10-1a04ef3f32e4" />
 
@@ -65,7 +65,8 @@ Arquivo Vendas:
 
 Quantidade Total de dados: 88.213
 
-Dashboard Análise de Campanhas de Marketing
+**Dashboard Análise de Campanhas de Marketing**
+
 <img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/60522ef6-426a-4319-8803-8dc464d23dbd" />
 <img width="1281" height="712" alt="image" src="https://github.com/user-attachments/assets/c84b9711-d399-4774-826c-acd2eecd1d86" />
 <img width="1281" height="712" alt="image" src="https://github.com/user-attachments/assets/f443cf18-5d3f-4936-9a72-288f867c4d9e" />
@@ -99,4 +100,62 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Compra na Campanha 5
 - Comprou
 - Pais
+
+Quantidade Total de dados: 2001
+
+**Dashboard Comercial - Performance de Vendas**
+
+<img width="1322" height="728" alt="image" src="https://github.com/user-attachments/assets/4dac27db-7fbe-4112-be4c-afbc08e66ee9" />
+<img width="1341" height="725" alt="image" src="https://github.com/user-attachments/assets/e99cb981-8955-4f03-9352-7844b5a1b489" />
+<img width="1336" height="734" alt="image" src="https://github.com/user-attachments/assets/c2f69188-3a93-47df-91ab-0bc1044a5deb" />
+<img width="1333" height="730" alt="image" src="https://github.com/user-attachments/assets/48d3e17d-82c2-4c2c-a284-b69be79886c9" />
+<img width="1325" height="729" alt="image" src="https://github.com/user-attachments/assets/157b609e-fafe-419a-acca-c035d9f288b1" />
+
+Arquivo em excel que contém inicialmente as seguintes colunas:
+- ID-Produto
+- Produto
+- Categoria
+- Segmento
+- Fabricante
+- Loja
+- Cidade
+- Estado
+- Vendedor
+- ID-Vendedor
+- Comissão (Percentual)
+- Data Venda
+- ValorVenda
+- Custo
+
+Quantidade Total de dados: 458
+
+**Dashboard Aálise de Dados RH**
+
+<img width="1281" height="710" alt="image" src="https://github.com/user-attachments/assets/32588d36-fd64-46e8-80b1-dbbc52484924" />
+
+Arquivo em excel que contém inicialmente as seguintes colunas:
+- Id_Funcionario
+- Idade
+- Genero
+- Estado Civil
+- Departamento
+- Funcao
+- Viagem
+- ValorDiaria
+- Indice_Envolvimento_Trabalho
+- Nivel_Satisfacao_Trabalho
+- Salario_Mensal
+- Numero_Empresas_Anteriores
+- Disponivel_Hora_Extra
+- Percentual_Ultimo_Aumento_Salario
+- Aval_Performance
+- Anos_Experiencia
+- Numero_Treinamentos_Ano_Anterior
+- Anos_na_Empresa
+- Anos_Funcao_Atual
+- Anos_Desde_Ultima_Promocao
+- Anos_com_Gerente_Atual
+
+Quantidade Total de dados: 1401
+
 
